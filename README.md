@@ -1,11 +1,11 @@
 # Online-voting-System
 
- ● Online Voting System (Core Python)
+● Online Voting System (Core Python)
 
 A menu-driven Online Voting System developed using Core Python only.
 This project demonstrates fundamental Python concepts such as dictionaries, functions, loops, and conditional statements while simulating a simple voting process.
 
-Project Overview
+● Project Overview
 
 The Online Voting System allows predefined voters to securely log in using their voter ID, view available candidates, cast a single vote, and view voting results.
 Duplicate voting is strictly prevented to maintain fairness.
