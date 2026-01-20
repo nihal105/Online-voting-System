@@ -140,5 +140,6 @@ This project is open-source and available for educational purposes.
 
 ● Author
 
-Nihaall
+Muhammed Nihal
+
 Feel free to ⭐ the repository if you find it helpful!
