@@ -30,23 +30,24 @@ This project is ideal for beginners and students learning Python fundamentals.
 
 • Technologies Used
 
-Language: Python
+● Language: Python
 
-Concepts:
+● Concepts:
 
-Dictionaries
+• Dictionaries
 
-Functions
+• Functions
 
-Loops
+• Loops
 
-Conditional Statements
+• Conditional Statements
 
-Global Variables
+• Global Variables
 
-Console Input/Output
+• Console Input/Output
 
 ● Project Structure
+
 online-voting-system/
 │
 ├── voting_system.py   # Main Python program
@@ -56,15 +57,9 @@ online-voting-system/
 
 Make sure Python 3.x is installed on your system
 
-Clone this repository:
-
-git clone https://github.com/your-username/online-voting-system.git
-
-
 Navigate to the project directory:
 
 cd online-voting-system
-
 
 Run the program:
 
@@ -91,35 +86,35 @@ Candidate No	Candidate Name
 
 ● Rules & Constraints
 
-Each voter can vote only once
+• Each voter can vote only once
 
-Invalid voter IDs are rejected
+• Invalid voter IDs are rejected
 
-Voting without login is not allowed
+• Voting without login is not allowed
 
-Data is stored temporarily (no database)
+• Data is stored temporarily (no database)
 
 ● Future Enhancements
 
-Add file or database storage
+• Add file or database storage
 
-Admin authentication
+• Admin authentication
 
-Result winner declaration
+• Result winner declaration
 
-Graphical User Interface (GUI)
+• Graphical User Interface (GUI)
 
-Dynamic voter & candidate registration
+• Dynamic voter & candidate registration
 
 ● Learning Outcomes
 
-Understanding Python dictionaries and functions
+• Understanding Python dictionaries and functions
 
-Implementing menu-driven programs
+• Implementing menu-driven programs
 
-Applying logical checks and validations
+• Applying logical checks and validations
 
-Writing clean, structured Python code
+• Writing clean, structured Python code
 
 ● License
 
