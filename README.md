@@ -145,5 +145,3 @@ Muhammed Nihal
 Feel free to ⭐ the repository if you find it helpful!
 
 ● Video Presentation and Code Explanation
-
-/Users/mac/Movies/Online Voting system Vedio copy.mp4
