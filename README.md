@@ -50,7 +50,9 @@ This project is ideal for beginners and students learning Python fundamentals.
 
 online-voting-system/
 │
+
 ├── voting_system.py   # Main Python program
+
 └── README.md          # Project documentation
 
 ●  How to Run the Program
