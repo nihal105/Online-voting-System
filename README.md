@@ -69,21 +69,37 @@ python voting_system.py
 
 ● Predefined Voters
 Voter ID	Voting Status
+
 V101	Not Voted
+
 V102	Not Voted
+
 V103	Not Voted
+
 V104	Not Voted
+
 ● Candidates
+
 Candidate No	Candidate Name
+
 1	Candidate A
+
 2	Candidate B
+
 3	Candidate C
+
 ● Menu Options
+
 1. Login
+ 
 2. Display Candidates
+   
 3. Cast Vote
+  
 4. Display Results
+
 5. Vote Count Summary
+   
 6. Exit
 
 ● Rules & Constraints
