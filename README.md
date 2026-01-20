@@ -143,5 +143,3 @@ This project is open-source and available for educational purposes.
 Muhammed Nihal
 
 Feel free to ⭐ the repository if you find it helpful!
-
-● Video Presentation and Code Explanation
