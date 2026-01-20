@@ -1,16 +1,131 @@
 # Online-voting-System
 
-The Online Voting System is a menu-driven console application developed using Core Python.
-The purpose of this project is to simulate a basic electronic voting process where registered voters can log in using a unique voter ID and cast their vote securely.
+ ● Online Voting System (Core Python)
 
-The system maintains predefined lists of voters and candidates using Python dictionaries. Each voter is allowed to vote only once, ensuring fairness and preventing duplicate voting. The application provides options to display candidates, cast votes, view voting results, and check the total number of votes cast.
+A menu-driven Online Voting System developed using Core Python only.
+This project demonstrates fundamental Python concepts such as dictionaries, functions, loops, and conditional statements while simulating a simple voting process.
 
-This project focuses on demonstrating fundamental Python programming concepts such as functions, loops, conditionals, dictionary operations, and input validation. It is ideal for beginners who want hands-on experience with real-world logic using simple Python code.
+Project Overview
 
-Conclution
+The Online Voting System allows predefined voters to securely log in using their voter ID, view available candidates, cast a single vote, and view voting results.
+Duplicate voting is strictly prevented to maintain fairness.
 
-The Online Voting System successfully demonstrates how a simple and secure voting mechanism can be implemented using Core Python. By enforcing voter authentication and preventing multiple votes from the same user, the system ensures transparency and reliability within its limited scope.
+This project is ideal for beginners and students learning Python fundamentals.
 
-This project serves as a strong foundation for understanding menu-driven programs and real-life problem-solving using Python. While the current implementation is suitable for educational purposes, it can be further enhanced by adding features such as persistent data storage, graphical user interface (GUI), and advanced authentication mechanisms.
+● Features
 
-Overall, this project helps learners strengthen their Python fundamentals and provides a clear understanding of how basic software systems are designed and executed.
+ • Voter login using Voter ID
+
+ • Prevents duplicate voting
+
+ • Displays candidate list
+
+• Allows eligible voters to cast a vote
+
+• Displays real-time voting results
+
+• Shows total vote count summary
+
+• Menu-driven console interface
+
+• Technologies Used
+
+Language: Python
+
+Concepts:
+
+Dictionaries
+
+Functions
+
+Loops
+
+Conditional Statements
+
+Global Variables
+
+Console Input/Output
+
+● Project Structure
+online-voting-system/
+│
+├── voting_system.py   # Main Python program
+└── README.md          # Project documentation
+
+●  How to Run the Program
+
+Make sure Python 3.x is installed on your system
+
+Clone this repository:
+
+git clone https://github.com/your-username/online-voting-system.git
+
+
+Navigate to the project directory:
+
+cd online-voting-system
+
+
+Run the program:
+
+python voting_system.py
+
+● Predefined Voters
+Voter ID	Voting Status
+V101	Not Voted
+V102	Not Voted
+V103	Not Voted
+V104	Not Voted
+● Candidates
+Candidate No	Candidate Name
+1	Candidate A
+2	Candidate B
+3	Candidate C
+● Menu Options
+1. Login
+2. Display Candidates
+3. Cast Vote
+4. Display Results
+5. Vote Count Summary
+6. Exit
+
+● Rules & Constraints
+
+Each voter can vote only once
+
+Invalid voter IDs are rejected
+
+Voting without login is not allowed
+
+Data is stored temporarily (no database)
+
+● Future Enhancements
+
+Add file or database storage
+
+Admin authentication
+
+Result winner declaration
+
+Graphical User Interface (GUI)
+
+Dynamic voter & candidate registration
+
+● Learning Outcomes
+
+Understanding Python dictionaries and functions
+
+Implementing menu-driven programs
+
+Applying logical checks and validations
+
+Writing clean, structured Python code
+
+● License
+
+This project is open-source and available for educational purposes.
+
+● Author
+
+Nihaall
+Feel free to ⭐ the repository if you find it helpful!
