@@ -1,18 +1,18 @@
 # Online-voting-System
 
-● Online Voting System (Core Python)
+## Online Voting System (Core Python)
 
 A menu-driven Online Voting System developed using Core Python only.
 This project demonstrates fundamental Python concepts such as dictionaries, functions, loops, and conditional statements while simulating a simple voting process.
 
-● Project Overview
+## Project Overview
 
 The Online Voting System allows predefined voters to securely log in using their voter ID, view available candidates, cast a single vote, and view voting results.
 Duplicate voting is strictly prevented to maintain fairness.
 
 This project is ideal for beginners and students learning Python fundamentals.
 
-● Features
+## Features
 
  • Voter login using Voter ID
 
@@ -30,9 +30,9 @@ This project is ideal for beginners and students learning Python fundamentals.
 
 • Technologies Used
 
-● Language: Python
+## Language: Python
 
-● Concepts:
+## Concepts:
 
 • Dictionaries
 
@@ -46,16 +46,17 @@ This project is ideal for beginners and students learning Python fundamentals.
 
 • Console Input/Output
 
-● Project Structure
+## Project Structure
 
-online-voting-system/
-│
+online-voting-system
 
-├── voting_system.py   # Main Python program
+├── voting_system.py  
+  Main Python program
 
-└── README.md          # Project documentation
+└── README.md         
+  Project documentation
 
-●  How to Run the Program
+## How to Run the Program
 
 Make sure Python 3.x is installed on your system
 
@@ -67,7 +68,7 @@ Run the program:
 
 python voting_system.py
 
-● Predefined Voters
+## Predefined Voters
 Voter ID	Voting Status
 
 V101	Not Voted
@@ -78,7 +79,7 @@ V103	Not Voted
 
 V104	Not Voted
 
-● Candidates
+## Candidates
 
 Candidate No	Candidate Name
 
@@ -88,7 +89,7 @@ Candidate No	Candidate Name
 
 3	Candidate C
 
-● Menu Options
+## Menu Options
 
 1. Login
  
@@ -102,7 +103,7 @@ Candidate No	Candidate Name
    
 6. Exit
 
-● Rules & Constraints
+## Rules & Constraints
 
 • Each voter can vote only once
 
@@ -112,7 +113,7 @@ Candidate No	Candidate Name
 
 • Data is stored temporarily (no database)
 
-● Future Enhancements
+## Future Enhancements
 
 • Add file or database storage
 
@@ -124,7 +125,7 @@ Candidate No	Candidate Name
 
 • Dynamic voter & candidate registration
 
-● Learning Outcomes
+## Learning Outcomes
 
 • Understanding Python dictionaries and functions
 
@@ -134,16 +135,14 @@ Candidate No	Candidate Name
 
 • Writing clean, structured Python code
 
-● License
+## License
 
 This project is open-source and available for educational purposes.
 
-● Video Presentation and Code Explanation
+## Video Presentation and Code Explanation
 
 https://drive.google.com/file/d/1q2MHEyHGJ1jfIRLGLkyEO-93BmXnCaN7/view?usp=drive_link
 
-● Author
+## Author
 
 Muhammed Nihal
-
-Feel free to ⭐ the repository if you find it helpful!
