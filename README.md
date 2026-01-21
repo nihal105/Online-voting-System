@@ -138,6 +138,10 @@ Candidate No	Candidate Name
 
 This project is open-source and available for educational purposes.
 
+● Video Presentation and Code Explanation
+
+https://drive.google.com/file/d/1q2MHEyHGJ1jfIRLGLkyEO-93BmXnCaN7/view?usp=drive_link
+
 ● Author
 
 Muhammed Nihal
